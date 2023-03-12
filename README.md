@@ -1,4 +1,4 @@
-## Github del corso di laurea triennale in ingegneria chimica dell'università di Pisa
+## Github Ingegneria Chimica Università di Pisa
 
 Admins: Riccardo Lapi & Giacomo Lazzerini
 
