@@ -7,4 +7,4 @@ Ginevra Nobili,
 Leonardo Taddei,
 Duccio Maria Delfino,
 Andrea Gozzi,
-Cristina Pescucci,
+Cristina Pescucci
