@@ -2,4 +2,9 @@
 
 Admins: Riccardo Lapi & Giacomo Lazzerini
 
-Collaborators: Ginevra Nobili, Leonardo Taddei, Duccio Maria Delfino, Andrea Gozzi
+Collaborators: 
+Ginevra Nobili
+Leonardo Taddei 
+Duccio Maria Delfino
+Andrea Gozzi
+Cristina Pescucci
